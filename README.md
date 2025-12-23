@@ -28,6 +28,16 @@ dependencies: [
 ]
 ```
 
+### CocoaPods
+
+Add the pod to your `Podfile` and install:
+
+```ruby
+pod "EventSource", "1.3.0"
+```
+
+Then run `pod install` as usual.
+
 ## Usage
 
 ### Connecting to an EventSource
